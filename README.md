@@ -4,15 +4,14 @@ This is a repo to manage all projects constructs on 21 days of code challenge fr
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge rules](#the-challenge-rules)
-  - [Day 1](#day-1)
-    - [Overview](#day-1-overview)
-  - [Day 2](#day-2)
-    - [Overview](#day-2-overview)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-    - [What i Learned](#what-i-learned)
+- [The challenge rules](#the-challenge-rules)
+- [Day 1](#day-1)
+  - [Overview](#day-1-overview)
+- [Day 2](#day-2)
+  - [Overview](#day-2-overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [What i Learned](#what-i-learned)
 - [Author](#author)
 
 
