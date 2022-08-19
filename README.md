@@ -9,9 +9,8 @@ This is a repo to manage all projects constructs on 21 days of code challenge fr
   - [Overview](#day-1-overview)
 - [Day 2](#day-2)
   - [Overview](#day-2-overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [What i Learned](#what-i-learned)
+- [Day 3](#day-3)
+  - [Overview](#day-3-overview)
 - [Author](#author)
 
 
