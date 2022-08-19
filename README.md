@@ -54,6 +54,31 @@ Use javascript and css to create a typewriter animation.
 
 - [unsplash](https://unsplash.com/) - provided image to background.
 
+## Day 3
+
+### Day 3 Overview
+
+To create an animated button
+
+### Screenshot
+
+![](./screenshots/day-03-screenshot.png)
+
+### Links
+
+- Live Site URL: [day 3](https://jalves.dev.br/portfolio/projects/21-days-of-code/day-03/)
+
+### What I learned
+
+never give up, even if you are tired.
+
+
+### Useful resources
+
+- [Educity - 5 Simple Toggle Button Animation in HTML - Pure CSS](https://educity.app/web-development/5-simple-toggle-button-animation-in-html-pure-css) - Five simple examples of toogle buttons.
+- [Dev.to - Top 50 CSS Buttons (+ animations)](https://dev.to/webdeasy/top-20-css-buttons-animations-f41) - 50 animated buttons ideas.
+
+
 ## Author
 
 - Website - [jalves.dev.br](http://jalves.dev.br/)
