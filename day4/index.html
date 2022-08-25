@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>21 days of code | day 4 | Calculator</title>
+  <script src="https://kit.fontawesome.com/5ec0a1c9c6.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="calculator">
+    <div class="display">
+      <input type="text" name="display" id="display" maxlength="13" value="0">
+    </div>
+    <div class="keys">
+      <div class="keys-line-1">
+        <button id="AC" class="key-operator" data-action="clear">AC</button>
+        <button id="backspace" class="key-operator" data-action="backspace"><i class="fa-solid fa-delete-left"></i></button>
+        <button id="signal-invert" class="key-operator" data-action="invert">+/-</button>
+        <button id="division" class="key-operator" data-action="divide">&#247;</button>
+      </div>
+      <div class="keys-line-2">
+        <button id="7">7</button>
+        <button id="8">8</button>
+        <button id="9">9</button>
+        <button id="multiply" class="key-operator"data-action="multiply">X</button>
+      </div>
+      <div class="keys-line-3">
+        <button id="4">4</button>
+        <button id="5">5</button>
+        <button id="6">6</button>
+        <button id="subtract" class="key-operator"data-action="subtract">-</button>
+      </div>
+      <div class="keys-line-4">
+        <button id="1">1</button>
+        <button id="2">2</button>
+        <button id="3">3</button>
+        <button id="add" class="key-operator"data-action="add">+</button>
+      </div>
+      <div class="keys-line-5">
+        <button id="0" class="key-double">0</button>
+        <button id="decimal" data-action="decimal">.</button>
+        <button id="equal" class="key-operator "data-action="calculate">=</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
