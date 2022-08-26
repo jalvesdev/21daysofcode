@@ -13,6 +13,8 @@ This is a repo to manage all projects constructs on 21 days of code challenge fr
   - [Overview](#day-3-overview)
 - [Day 4](#day-4)
   - [Overview](#day-4-overview)
+- [Day 5](#day-5)
+  - [Overview](#day-5-overview)
 - [Author](#author)
 
 
@@ -97,6 +99,26 @@ Create a calculator
 
 - [Free code camp - how to make a calculator html from zero using javascript](https://www.freecodecamp.org/portuguese/news/como-construir-uma-calculadora-html-do-zero-usando-javascript/) - A tutorial about howto make your calculator in PTBR.
 - [Behance - Hager Tarek](https://www.behance.net/gallery/137614737/Calculator) - provide inspiration to design.
+
+## Day 5
+
+### Day 5 Overview
+
+Develop a custom 404 page.
+
+### Screenshot
+
+![](./screenshots/day-05-screenshot.png)
+
+### Links
+
+- Live Site URL: [day 3](https://jalves.dev.br/portfolio/projects/21-days-of-code/day-05/)
+
+### Useful resources
+
+- [Behance - Shamim Hossain](https://www.behance.net/gallery/143726179/404-Error-Page-Design/modules/811998337) - provide inspiration to design.
+- [Freepik](http://www.freepik.com) - provided image.
+
 
 
 ## Author

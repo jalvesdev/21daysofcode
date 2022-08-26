@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+:root {
+  --normal: #6A6A6A;
+  --normal-dark:#404040;
+  --accent: #E8505C;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  padding: 50px 150px;
+  color: var(--normal)
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+li {
+  padding-left: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: var(--normal);
+  font-size: 18px;
+}
+
+a .accent {
+  font-weight: bold;
+}
+
+a:visited{
+  color: var(--normal)
+}
+
+article {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+article img {
+  width: 600px;
+}
+
+article figcaption{
+  text-align: center;
+}
+
+article .content h1 {
+  font-weight: 700;
+  font-size: 50px;
+  color: var(--normal-dark)
+}
+
+article .content p {
+  font-size: 22px;
+}
+
+article .call-to-action {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  padding-top: 30px;
+}
+
+article .call-to-action button {
+  width: 180px;
+  height: 50px;
+  font-size: 18px;
+  background-color: var(--accent);
+  color: white;
+  border: none;
+  border-radius: 10px;
+}
+
+article .call-to-action button:hover {
+  cursor: pointer;
+}
+
+article .call-to-action a {
+  padding-left: 30px;
+  font-size: 16px;
+  color: var(--accent);
+}
+
+article .call-to-action a:visited {
+  color: var(--accent);
+}
+
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+
+footer p {
+  font-size: 14px;
+}
+
+footer .social-icons {
+  padding-left: 180px;
+}
+
+footer .social-icons a {
+  padding-left: 5px;
+  
+}
+
+footer .social-icons a i {
+  font-size: 22px;
+}
+
+.credits { 
+  font-size: 11px; 
+}
